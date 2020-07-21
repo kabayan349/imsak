@@ -135,3 +135,4 @@ echo color("red","          Format Kode 08/62 loss karepmu\n");
                                         $debug['text'] = $pesan;
                                         $debug['respon'] = json_decode($datas, true);
 }
+?>
